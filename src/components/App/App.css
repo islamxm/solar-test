@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.App #solar {
+  width: 100%;
+  height: 100%;
+}
+
+.App #solar canvas {
+  width: 100%;
+  height: 100%;
+}
+/*# sourceMappingURL=App.css.map */
